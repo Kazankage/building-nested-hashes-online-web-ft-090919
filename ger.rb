@@ -47,7 +47,7 @@ epic_tragedy = {
       },
       {
         name: "Nurse",
-        age: "44"
+        age: "44",
         attitude: "worried"
       }
       ]
