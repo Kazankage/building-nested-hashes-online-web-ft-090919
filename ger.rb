@@ -22,7 +22,7 @@ epic_tragedy = {
       name: "Mercutio",
       age: "18",
       attitude: "hot-headed"
-      },
+      }
     ]
   },
   capulet: {
